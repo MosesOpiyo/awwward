@@ -27,26 +27,7 @@ virtual environment
 
 pip
 
-# Cloning
-In your terminal:
-$ git clone https://github.com/thuojose/Awwards.git
 
-$ cd awwards
-
-# Running the Application
-Install virtual environment using $ python3.8 -m venv --without-pip virtual
-
-Activate virtual environment using $ source virtual/bin/activate
-
-Download pip in our environment using $ curl https://bootstrap.pypa.io/get-pip.py |python
-
-Install all the dependencies from the requirements.txt file by running python3.8 pip install -r requirements.txt.
-
-Then run the application, in your terminal
-
-python3.8 manage.py runserver
-
-Test the Application
 
 # Technologies Used
 Python3.8
@@ -59,13 +40,14 @@ Bootstrap
 
 This application is developed using Python3.8, Django, HTML and Bootstrap
 
-# Support or Contribution
-Email me! @josephmbugus!6@gmail.com
+# contacts
+moses.junior@student.moringaschool.com
+0110464540
 
 # License
 MIT License
 
-Copyright (c) 2021 thuojose
+Copyright (c) 2021 MosesOpiyo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
