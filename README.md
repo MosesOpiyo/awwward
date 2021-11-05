@@ -1,11 +1,10 @@
 # Name of the project
 Awwards
 
+# By Moses Opiyo
+
 # Description of the project
 An application that allow a user to post a project he/she has created and get it reviewed by his/her peers.
-
-# Author of the project
-thuojose
 
 # Features
 As a user of the web application you will be able to:
